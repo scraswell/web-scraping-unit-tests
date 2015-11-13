@@ -41,7 +41,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Craswell.WebScraping\Craswell.WebScraping.csproj">
+    <ProjectReference Include="..\web-scraping\Craswell.WebScraping.csproj">
       <Project>{EE92A653-52DF-432F-94F9-AD5AC917825E}</Project>
       <Name>Craswell.WebScraping</Name>
     </ProjectReference>
